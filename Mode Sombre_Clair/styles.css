@@ -1,0 +1,34 @@
+body {
+    background-color: antiquewhite;
+}
+
+body.dark {
+background-color: black;
+}
+
+.cube {
+    width: 1000px;
+    background-color: white;
+    height: 500px;
+}
+
+.button {
+    color: black;
+}
+
+
+.dark.cube {
+    background-color: #222222;
+}
+
+.dark.text{
+    color: whitesmoke;
+}
+
+.dark.title1 {
+    color: whitesmoke;
+}
+
+.dark.title2 {
+    color: whitesmoke;
+}
